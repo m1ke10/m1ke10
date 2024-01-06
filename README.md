@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m1ke10
-- 👀 I’m interested in python, visual basic
+- 👀 I’m interested in python, visual basic, C#
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on NOTHING!
 
